@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "start": "deno serve --port $PORT exit_node.ts"
+  }
+}
